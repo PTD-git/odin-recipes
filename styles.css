@@ -28,13 +28,13 @@ h2,h3 {
 h2 {
     font-size: 23px;
     text-decoration: underline;
-    margin-top: 25px;
+    margin-top: 20px;
     margin-bottom: 3px;
 }
 
 h3 {
-    font-size: 23px;
-    margin-top: 0px;
+    font-size: 19px;
+    margin-top: 5px;
     margin-bottom: -15px;
 }
 
@@ -46,7 +46,7 @@ body {
     font-size: 18px;
     text-wrap-style: pretty;
     margin-left: 400px;
-    margin-right: 800px;
+    margin-right: 895px;
 }
 
 img {
@@ -77,5 +77,5 @@ ul {
 
 ol li {
     line-height: 27px;
-    margin-right: 200px;
+    margin-right: 100px;
 }
